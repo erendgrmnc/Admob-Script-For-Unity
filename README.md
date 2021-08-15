@@ -12,6 +12,7 @@ Install admob plugin to your Unity project solution.
 ```
 https://github.com/googleads/googleads-mobile-unity
 ```
+Configure your admob settings.
 
 Add this script in your Unity project solution. 
 In this file you opened, replace the following lines of code.
